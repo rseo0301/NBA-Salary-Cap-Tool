@@ -1,6 +1,4 @@
-# CPSC 210 Personal Project
-
-## NBA Salary Cap Tool
+# CPSC 210 Personal Project: NBA Salary Cap Tool
 
   The NBA, similar to most professional team sports, sets a salary cap on each team. This is a maximum limit that teams cannot cross under most circumstances, regarding the amount of money spent on their player contracts. However, the NBA allows various exceptions that allows teams to *exceed* far past this salary cap. Due to these exceptions, manipulation of the salary cap is a very intricate process in the NBA that comes at the confusion to most fans.
   The purpose of this application is to be **used as a tool to explain these intricacies and simulate the NBA salary cap, allowing the user to manipulate contracts in response to their salary cap situation**. Users will be able to edit contracts in order to comply to the salary cap, while learning about the various exceptions that can apply to their players. Thus, this application can be used for users in opposite ends of the spectrum: professional, experienced users, and even NBA General Managers should be able to use this as a tool to address financial issues with their team in a convenient way. On the other hand, casual NBA viewers would be able to use this tool to clarify the different rules and how it applies to their own team. 
